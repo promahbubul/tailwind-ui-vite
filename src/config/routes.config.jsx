@@ -46,7 +46,7 @@ import Notifications from "../pages/applications/overlays/Notifications";
 import SideOvers from "../pages/applications/overlays/SideOvers";
 import DetailScreens from "../pages/applications/pages/DetailScreens";
 import HomeScreen from "../pages/applications/pages/HomeScreen";
-import SettingsScreen from "../pages/applications/pages/SettingsScreens.";
+import SettingsScreen from "../pages/applications/pages/SettingsScreens";
 import MultiColumnLayout from "../pages/applications/shells/MultiColumnLayout";
 import SidebarLayouts from "../pages/applications/shells/SidebarLayouts";
 import StackedLayouts from "../pages/applications/shells/StackedLayouts";
