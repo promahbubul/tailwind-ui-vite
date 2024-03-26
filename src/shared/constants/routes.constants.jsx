@@ -81,11 +81,11 @@ export const applicationRoutes = {
   buttons: "/components/application/elements/buttons",
   buttonGroups: "/components/application/elements/button-groups",
   // layout section
-  containers: "/components/application/layout/containers",
-  panels: "/components/application/layout/panels",
-  listContainers: "/components/application/layout/listContainers",
-  mediaObjects: "/components/application/layout/media-objects",
-  dividers: "/components/application/layout/dividers",
+  containers: "/components/application/layouts/containers",
+  panels: "/components/application/layouts/panels",
+  listContainers: "/components/application/layouts/list-containers",
+  mediaObjects: "/components/application/layouts/media-objects",
+  dividers: "/components/application/layouts/dividers",
   // page examples section
   homeScreens: "/components/application/page-examples/home-screens",
   detailScreens: "/components/application/page-examples/detail-screens",

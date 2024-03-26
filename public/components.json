@@ -474,8 +474,8 @@
         "id": 1,
         "title": "Containers",
         "total": 2,
-        "photo": "/images/application-ui/calendars.png",
-        "path": "/components/application/layouts/calendars"
+        "photo": "/images/application-ui/containers.png",
+        "path": "/components/application/layouts/containers"
       },
       {
         "id": 2,
