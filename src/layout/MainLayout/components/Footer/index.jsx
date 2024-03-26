@@ -3,7 +3,7 @@ import { logo } from "../../../../assets/icons/Icons";
 
 const Footer = () => {
   return (
-    <footer className="py-8 mt-20 border-t  text-center flex flex-col items-center border-t-gray-100">
+    <footer className="py-8 mt-20 border-t max-w-7xl mx-auto    text-center flex flex-col items-center border-t-gray-100">
       <img src={logo} alt="" className="" />
       <p className="text-gray-500 text-sm mt-5">
         © 2024 Tailwind Labs Inc. All rights reserved.

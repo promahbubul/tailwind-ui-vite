@@ -1,0 +1,686 @@
+{
+  "marketing": {
+    "pageSection": [
+      {
+        "id": 1,
+        "title": "Hero Sections",
+        "total": 12,
+        "photo": "/images/marketing/heroes.png",
+        "path": "/components/marketing/page-section/hero"
+      },
+      {
+        "id": 2,
+        "title": "Feature Sections",
+        "total": 18,
+        "photo": "/images/marketing/feature-sections.png",
+        "path": "/components/marketing/page-section/feature"
+      },
+      {
+        "id": 3,
+        "title": "CTA Sections",
+        "total": 11,
+        "photo": "/images/marketing/cta-sections.png",
+        "path": "/components/marketing/page-section/cta"
+      },
+      {
+        "id": 4,
+        "title": "Pricing Sections",
+        "total": 13,
+        "photo": "/images/marketing/pricing.png",
+        "path": "/components/marketing/page-section/pricing"
+      },
+      {
+        "id": 5,
+        "title": "Header Sections",
+        "total": 10,
+        "photo": "/images/marketing/header.png",
+        "path": "/components/marketing/page-section/header"
+      },
+      {
+        "id": 6,
+        "title": "News Sections",
+        "total": 7,
+        "photo": "/images/marketing/newsletter-sections.png",
+        "path": "/components/marketing/page-section/newsletter"
+      },
+      {
+        "id": 7,
+        "title": "Stats",
+        "total": 10,
+        "photo": "/images/marketing/stats-sections.png",
+        "path": "/components/marketing/page-section/stats"
+      },
+      {
+        "id": 8,
+        "title": "Testimonials",
+        "total": 9,
+        "photo": "/images/marketing/testimonials.png",
+        "path": "/components/marketing/page-section/testimonial"
+      },
+      {
+        "id": 9,
+        "title": "Blog Sections",
+        "total": 7,
+        "photo": "/images/marketing/blog-sections.png",
+        "path": "/components/marketing/page-section/blog"
+      },
+      {
+        "id": 10,
+        "title": "Contact Sections",
+        "total": 8,
+        "photo": "/images/marketing/contact-sections.png",
+        "path": "/components/marketing/page-section/content"
+      },
+      {
+        "id": 11,
+        "title": "Team Sections",
+        "total": 9,
+        "photo": "/images/marketing/team-sections.png",
+        "path": "/components/marketing/page-section/team"
+      },
+      {
+        "id": 12,
+        "title": "Content Sections",
+        "total": 6,
+        "photo": "/images/marketing/content-sections.png",
+        "path": "/components/marketing/page-section/content"
+      },
+      {
+        "id": 13,
+        "title": "Logo Clouds",
+        "total": 12,
+        "photo": "/images/marketing/logo-clouds.png",
+        "path": "/components/marketing/page-section/logo-cloudes"
+      },
+      {
+        "id": 14,
+        "title": "FAQs",
+        "total": 10,
+        "photo": "/images/marketing/faq-sections.png",
+        "path": "/components/marketing/page-section/faqs"
+      },
+      {
+        "id": 15,
+        "title": "Footers",
+        "total": 10,
+        "photo": "/images/marketing/footers.png",
+        "path": "/components/marketing/page-section/footers"
+      }
+    ],
+    "elements": [
+      {
+        "id": 1,
+        "title": "Headers",
+        "total": 12,
+        "photo": "/images/marketing/headers.png",
+        "path": "/components/marketing/elements/headers"
+      },
+      {
+        "id": 2,
+        "title": "Flyout Menus",
+        "total": 7,
+        "photo": "/images/marketing/flyout-menus.png",
+        "path": "/components/marketing/elements/flyout-menus"
+      },
+      {
+        "id": 3,
+        "title": "Banners",
+        "total": 13,
+        "photo": "/images/marketing/banners.png",
+        "path": "/components/marketing/elements/banners"
+      }
+    ],
+    "feedback": [
+      {
+        "id": 1,
+        "title": "404 Pages",
+        "total": 5,
+        "photo": "/images/marketing/404-pages.png",
+        "path": "/components/marketing/feedback/not-found"
+      }
+    ],
+    "pageExamples": [
+      {
+        "id": 1,
+        "title": "Landing Pages",
+        "total": 4,
+        "photo": "/images/marketing/landing-pages.png",
+        "path": "/components/marketing/page-examples/landing"
+      },
+      {
+        "id": 2,
+        "title": "Pricing Pages",
+        "total": 3,
+        "photo": "/images/marketing/pricing-pages.png",
+        "path": "/components/marketing/page-examples/price"
+      },
+      {
+        "id": 3,
+        "title": "About Pages",
+        "total": 3,
+        "photo": "/images/marketing/about-pages.png",
+        "path": "/components/marketing/page-examples/about"
+      }
+    ]
+  },
+  "applicationUI": {
+    "shells": [
+      {
+        "id": 1,
+        "title": "Stacked Layouts",
+        "total": 9,
+        "photo": "/images/application-ui/stacked.png",
+        "path": "/components/application/shells/stacked-layouts"
+      },
+      {
+        "id": 2,
+        "title": "Sidebar Layouts",
+        "total": 8,
+        "photo": "/images/application-ui/sidebar.png",
+        "path": "/components/application/shells/sidebar-layouts"
+      },
+      {
+        "id": 3,
+        "title": "Multi-column Layout",
+        "total": 6,
+        "photo": "/images/application-ui/multi-column.png",
+        "path": "/components/application/shells/multi-column-layout"
+      }
+    ],
+    "headingSection": [
+      {
+        "id": 1,
+        "title": "Page Headings",
+        "total": 13,
+        "photo": "/images/application-ui/page-headings.png",
+        "path": "/components/application/heading/page-headings"
+      },
+      {
+        "id": 2,
+        "title": "Card Headings",
+        "total": 6,
+        "photo": "/images/application-ui/card-headings.png",
+        "path": "/components/application/heading/card-headings"
+      },
+      {
+        "id": 3,
+        "title": "Section Headings",
+        "total": 10,
+        "photo": "/images/application-ui/section-headings.png",
+        "path": "/components/application/heading/section-headings"
+      }
+    ],
+    "dataDisplay": [
+      {
+        "id": 1,
+        "title": "Description Lists",
+        "total": 13,
+        "photo": "/images/application-ui/description-lists.png",
+        "path": "/components/application/data-display/description-list"
+      },
+      {
+        "id": 2,
+        "title": "Stats",
+        "total": 6,
+        "photo": "/images/application-ui/stats.png",
+        "path": "/components/application/data-display/stats"
+      },
+      {
+        "id": 3,
+        "title": "Calenders",
+        "total": 10,
+        "photo": "/images/application-ui/calendars.png",
+        "path": "/components/application/data-display/calendars"
+      }
+    ],
+    "lists": [
+      {
+        "id": 1,
+        "title": "Stacked Lists",
+        "total": 17,
+        "photo": "/images/application-ui/stacked-lists.png",
+        "path": "/components/application/lists/stacked-list"
+      },
+      {
+        "id": 2,
+        "title": "Tables",
+        "total": 20,
+        "photo": "/images/application-ui/tables.png",
+        "path": "/components/application/lists/tables"
+      },
+      {
+        "id": 3,
+        "title": "Grid Lists",
+        "total": 7,
+        "photo": "/images/application-ui/grid-lists.png",
+        "path": "/components/application/lists/gridLists"
+      },
+      {
+        "id": 4,
+        "title": "Feeds",
+        "total": 3,
+        "photo": "/images/application-ui/feeds.png",
+        "path": "/components/application/lists/feeds"
+      }
+    ],
+    "forms": [
+      {
+        "id": 1,
+        "title": "Form Layouts",
+        "total": 17,
+        "photo": "/images/application-ui/form-layouts.png",
+        "path": "/components/application/forms/form-layouts"
+      },
+      {
+        "id": 2,
+        "title": "Input Groups",
+        "total": 20,
+        "photo": "/images/application-ui/input-groups.png",
+        "path": "/components/application/forms/input-groups"
+      },
+      {
+        "id": 3,
+        "title": "Select Menus",
+        "total": 7,
+        "photo": "/images/application-ui/select-menus.png",
+        "path": "/components/application/forms/select-menus"
+      },
+      {
+        "id": 4,
+        "title": "Sign-in and Registration",
+        "total": 3,
+        "photo": "/images/application-ui/sign-in-forms.png",
+        "path": "/components/application/forms/sign-in-forms"
+      },
+      {
+        "id": 5,
+        "title": "Textareas",
+        "total": 3,
+        "photo": "/images/application-ui/textareas.png",
+        "path": "/components/application/forms/textareas"
+      },
+      {
+        "id": 6,
+        "title": "Radio Groups",
+        "total": 3,
+        "photo": "/images/application-ui/radio-groups.png",
+        "path": "/components/application/forms/radio-groups"
+      },
+      {
+        "id": 7,
+        "title": "Checkboxes",
+        "total": 3,
+        "photo": "/images/application-ui/checkboxes.png",
+        "path": "/components/application/forms/checkboxes"
+      },
+      {
+        "id": 8,
+        "title": "Toggles",
+        "total": 3,
+        "photo": "/images/application-ui/toggles.png",
+        "path": "/components/application/forms/toggles"
+      },
+      {
+        "id": 9,
+        "title": "Action Panels",
+        "total": 3,
+        "photo": "/images/application-ui/action-panels.png",
+        "path": "/components/application/forms/action-panels"
+      },
+      {
+        "id": 10,
+        "title": "Comboboxes",
+        "total": 3,
+        "photo": "/images/application-ui/comboboxes.png",
+        "path": "/components/application/forms/comboboxes"
+      }
+    ],
+    "feedbacks": [
+      {
+        "id": 1,
+        "title": "Alerts",
+        "total": 6,
+        "photo": "/images/application-ui/alerts.png",
+        "path": "/components/application/feedbacks/alerts"
+      },
+      {
+        "id": 2,
+        "title": "Empty States",
+        "total": 6,
+        "photo": "/images/application-ui/empty-states.png",
+        "path": "/components/application/feedbacks/empty-states"
+      }
+    ],
+    "navigation": [
+      {
+        "id": 1,
+        "title": "Navbars",
+        "total": 11,
+        "photo": "/images/application-ui/navbars.png",
+        "path": "/components/application/navigation/navbar"
+      },
+      {
+        "id": 2,
+        "title": "Pagination",
+        "total": 3,
+        "photo": "/images/application-ui/pagination.png",
+        "path": "/components/application/navigation/pagination"
+      },
+      {
+        "id": 3,
+        "title": "Tabs",
+        "total": 9,
+        "photo": "/images/application-ui/tabs.png",
+        "path": "/components/application/navigation/tabs"
+      },
+      {
+        "id": 4,
+        "title": "Vertical Navigation",
+        "total": 6,
+        "photo": "/images/application-ui/vertical-navigation.png",
+        "path": "/components/application/navigation/vertical-avigation"
+      },
+      {
+        "id": 5,
+        "title": "Sidebar Navigation",
+        "total": 5,
+        "photo": "/images/application-ui/sidebar-navigation.png",
+        "path": "/components/application/navigation/sidebar-navigation"
+      },
+      {
+        "id": 6,
+        "title": "Breadcrumbs",
+        "total": 4,
+        "photo": "/images/application-ui/breadcrumbs.png",
+        "path": "/components/application/navigation/breadcrumbs"
+      },
+      {
+        "id": 7,
+        "title": "Steps",
+        "total": 8,
+        "photo": "/images/application-ui/steps.png",
+        "path": "/components/application/navigation/steps"
+      },
+      {
+        "id": 8,
+        "title": "Command Palettes",
+        "total": 9,
+        "photo": "/images/application-ui/command-palettes.png",
+        "path": "/components/application/navigation/command-paletts"
+      }
+    ],
+    "overlays": [
+      {
+        "id": 1,
+        "title": "Dialogs",
+        "total": 6,
+        "photo": "/images/application-ui/dialogs.png",
+        "path": "/components/application/overlays/dialogs"
+      },
+      {
+        "id": 2,
+        "title": "Slide-overs",
+        "total": 12,
+        "photo": "/images/application-ui/slide-overs.png",
+        "path": "/components/application/overlays/side-overs"
+      },
+      {
+        "id": 3,
+        "title": "Notifications",
+        "total": 6,
+        "photo": "/images/application-ui/notifications.png",
+        "path": "/components/application/overlays/notifications"
+      }
+    ],
+    "elements": [
+      {
+        "id": 1,
+        "title": "Avaters",
+        "total": 11,
+        "photo": "/images/application-ui/avatars.png",
+        "path": "/components/application/elements/avatars"
+      },
+      {
+        "id": 2,
+        "title": "Badges",
+        "total": 18,
+        "photo": "/images/application-ui/badges.png",
+        "path": "/components/application/elements/badges"
+      },
+      {
+        "id": 3,
+        "title": "Dropdowns",
+        "total": 5,
+        "photo": "/images/application-ui/dropdowns.png",
+        "path": "/components/application/elements/dropdowns"
+      },
+      {
+        "id": 4,
+        "title": "Buttons",
+        "total": 10,
+        "photo": "/images/application-ui/buttons.png",
+        "path": "/components/application/elements/buttons"
+      },
+      {
+        "id": 5,
+        "title": "Button Groups",
+        "total": 5,
+        "photo": "/images/application-ui/button-groups.png",
+        "path": "/components/application/elements/button-groups"
+      }
+    ],
+    "layouts": [
+      {
+        "id": 1,
+        "title": "Containers",
+        "total": 2,
+        "photo": "/images/application-ui/calendars.png",
+        "path": "/components/application/layouts/calendars"
+      },
+      {
+        "id": 2,
+        "title": "Panels",
+        "total": 2,
+        "photo": "/images/application-ui/panels.png",
+        "path": "/components/application/layouts/panels"
+      },
+      {
+        "id": 3,
+        "title": "List Containers",
+        "total": 2,
+        "photo": "/images/application-ui/list-containers.png",
+        "path": "/components/application/layouts/list-containers"
+      },
+      {
+        "id": 4,
+        "title": "Media Objects",
+        "total": 2,
+        "photo": "/images/application-ui/media-objects.png",
+        "path": "/components/application/layouts/media-objects"
+      },
+      {
+        "id": 5,
+        "title": "Dividers",
+        "total": 2,
+        "photo": "/images/application-ui/dividers.png",
+        "path": "/components/application/layouts/dividers"
+      }
+    ],
+    "pageExamples": [
+      {
+        "id": 1,
+        "title": "Home Screens",
+        "total": 4,
+        "photo": "/images/application-ui/home-screens.png",
+        "path": "/components/application/page-examples/home-screens"
+      },
+      {
+        "id": 2,
+        "title": "Detail Screens",
+        "total": 3,
+        "photo": "/images/application-ui/detail-screens.png",
+        "path": "/components/application/page-examples/detail-screens"
+      },
+      {
+        "id": 3,
+        "title": "Settings ‍Screens",
+        "total": 3,
+        "photo": "/images/application-ui/settings-screens.png",
+        "path": "/components/application/page-examples/settings-screens"
+      }
+    ]
+  },
+  "ecommerce": {
+    "components": [
+      {
+        "id": 1,
+        "title": "Product Overviews",
+        "total": 5,
+        "photo": "/images/ecommerce/product-overviews.png",
+        "path": "/components/ecommerce/components/product-overviews"
+      },
+      {
+        "id": 2,
+        "title": "Product Lists",
+        "total": 11,
+        "photo": "/images/ecommerce/product-lists.png",
+        "path": "/components/ecommerce/components/product-lists"
+      },
+      {
+        "id": 3,
+        "title": "Category Previews",
+        "total": 6,
+        "photo": "/images/ecommerce/category-previews.png",
+        "path": "/components/ecommerce/components/category-previews"
+      },
+      {
+        "id": 4,
+        "title": "Shopping Carts",
+        "total": 6,
+        "photo": "/images/ecommerce/shopping-carts.png",
+        "path": "/components/ecommerce/components/shopping-carts"
+      },
+      {
+        "id": 5,
+        "title": "Category Filters",
+        "total": 5,
+        "photo": "/images/ecommerce/category-filters.png",
+        "path": "/components/ecommerce/components/category-filters"
+      },
+      {
+        "id": 6,
+        "title": "Product Quickviews",
+        "total": 4,
+        "photo": "/images/ecommerce/product-quickviews.png",
+        "path": "/components/ecommerce/components/product-quickviews"
+      },
+      {
+        "id": 7,
+        "title": "Product Features",
+        "total": 9,
+        "photo": "/images/ecommerce/product-features.png",
+        "path": "/components/ecommerce/components/product-features"
+      },
+      {
+        "id": 8,
+        "title": "Store Navigation",
+        "total": 5,
+        "photo": "/images/ecommerce/store-navigation.png",
+        "path": "/components/ecommerce/components/store-navigation"
+      },
+      {
+        "id": 9,
+        "title": "Promo Sections",
+        "total": 8,
+        "photo": "/images/ecommerce/promo-sections.png",
+        "path": "/components/ecommerce/components/promo-sections"
+      },
+      {
+        "id": 10,
+        "title": "Checkout Forms",
+        "total": 5,
+        "photo": "/images/ecommerce/checkout-forms.png",
+        "path": "/components/ecommerce/components/checkout-forms"
+      },
+      {
+        "id": 11,
+        "title": "Reviews",
+        "total": 4,
+        "photo": "/images/ecommerce/reviews.png",
+        "path": "/components/ecommerce/components/reviews"
+      },
+      {
+        "id": 12,
+        "title": "Order Summaries",
+        "total": 4,
+        "photo": "/images/ecommerce/order-summaries.png",
+        "path": "/components/ecommerce/components/order-summaries"
+      },
+      {
+        "id": 13,
+        "title": "Order History",
+        "total": 4,
+        "photo": "/images/ecommerce/order-history.png",
+        "path": "/components/ecommerce/components/order-history"
+      },
+      {
+        "id": 14,
+        "title": "Incentives",
+        "total": 8,
+        "photo": "/images/ecommerce/incentives.png",
+        "path": "/components/ecommerce/components/incentives"
+      }
+    ],
+    "pageExamples": [
+      {
+        "id": 1,
+        "title": "Storefront Pages",
+        "total": 4,
+        "photo": "/images/ecommerce/storefront-pages.png",
+        "path": "/components/ecommerce/page-examples/storefront-pages"
+      },
+      {
+        "id": 2,
+        "title": "Product Pages",
+        "total": 5,
+        "photo": "/images/ecommerce/product-pages.png",
+        "path": "/components/ecommerce/page-examples/product-pages"
+      },
+      {
+        "id": 3,
+        "title": "Category Pages",
+        "total": 5,
+        "photo": "/images/ecommerce/category-pages.png",
+        "path": "/components/ecommerce/page-examples/category-pages"
+      },
+      {
+        "id": 4,
+        "title": "Shopping Cart Pages",
+        "total": 3,
+        "photo": "/images/ecommerce/shopping-cart-pages.png",
+        "path": "/components/ecommerce/page-examples/shopping-cart-pages"
+      },
+      {
+        "id": 5,
+        "title": "Checkout Pages",
+        "total": 5,
+        "photo": "/images/ecommerce/checkout-pages.png",
+        "path": "/components/ecommerce/page-examples/checkout-pages"
+      },
+      {
+        "id": 6,
+        "title": "Order Detail Pages",
+        "total": 3,
+        "photo": "/images/ecommerce/order-detail-pages.png",
+        "path": "/components/ecommerce/page-examples/order-detail-pages"
+      },
+      {
+        "id": 7,
+        "title": "Order History Pages",
+        "total": 5,
+        "photo": "/images/ecommerce/order-history-pages.png",
+        "path": "/components/ecommerce/page-examples/order-history-pages"
+      }
+    ]
+  }
+}

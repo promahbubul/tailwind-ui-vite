@@ -9,7 +9,7 @@ import HeaderLinks from "./components/HeaderLinks";
 
 const Header = () => {
   return (
-    <header className="flex flex-row items-center justify-between py-7">
+    <header className="flex flex-row items-center justify-between py-7 max-w-7xl mx-auto">
       {/* LEFT */}
       <div className="w-full  flex flex-row items-center gap-10">
         <Link to={"/"}>

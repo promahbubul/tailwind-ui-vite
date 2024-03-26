@@ -80,6 +80,7 @@ import Contact from "../pages/marketing/pageSection/Contact";
 import Cta from "../pages/marketing/pageSection/Cta";
 import Faq from "../pages/marketing/pageSection/Faq";
 import Feature from "../pages/marketing/pageSection/Feature";
+import Footers from "../pages/marketing/pageSection/Foooters";
 import Header from "../pages/marketing/pageSection/Header";
 import Hero from "../pages/marketing/pageSection/Hero";
 import LogoCloude from "../pages/marketing/pageSection/LogoCloude";
@@ -163,6 +164,10 @@ export const RoutesConfig = [
       {
         path: marketingRoutes.faqs,
         element: <Faq />,
+      },
+      {
+        path: marketingRoutes.footers,
+        element: <Footers />,
       },
       // elements
       {

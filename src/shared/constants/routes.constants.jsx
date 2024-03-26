@@ -15,16 +15,18 @@ export const marketingRoutes = {
   content: "/components/marketing/page-section/content",
   logoCloude: "/components/marketing/page-section/logo-cloudes",
   faqs: "/components/marketing/page-section/faqs",
+  footers: "/components/marketing/page-section/footers",
   //  elements
   headers: "/components/marketing/elements/headers",
-  flyoutMenu: "/components/marketing/elements/flyout-menu",
+  // components/marketing/page-section/flyout-menus
+  flyoutMenu: "/components/marketing/elements/flyout-menus",
   banners: "/components/marketing/elements/banners",
   // feedback section
-  notFound: "/components/marketing/feedback/not-fond",
+  notFound: "/components/marketing/feedback/not-found",
   // page example section
-  landingPage: "/components/marketing/pages/landing",
-  pricePage: "/components/marketing/pages/price",
-  aboutPage: "/components/marketing/pages/about",
+  landingPage: "/components/marketing/page-examples/landing",
+  pricePage: "/components/marketing/page-examples/price",
+  aboutPage: "/components/marketing/page-examples/about",
 };
 
 export const applicationRoutes = {
@@ -37,9 +39,9 @@ export const applicationRoutes = {
   cardHeadings: "/components/application/heading/card-headings",
   sectionHeadings: "/components/application/heading/section-headings",
   //  data display section
-  descriptionList: "/components/application/data/description-list",
-  stats: "/components/application/data/stats",
-  calendars: "/components/application/data/calendars",
+  descriptionList: "/components/application/data-display/description-list",
+  stats: "/components/application/data-display/stats",
+  calendars: "/components/application/data-display/calendars",
   // lists ssection
   stackedLists: "/components/application/lists/stacked-list",
   tables: "/components/application/lists/tables",
@@ -49,9 +51,8 @@ export const applicationRoutes = {
   formLayouts: "/components/application/forms/form-layouts",
   inputGroups: "/components/application/forms/input-groups",
   selectMenus: "/components/application/forms/select-menus",
-  signInAndRegistration:
-    "/components/application/forms/signin-and-registration",
-  textAreas: "/components/application/forms/text-area",
+  signInAndRegistration: "/components/application/forms/sign-in-forms",
+  textAreas: "/components/application/forms/textareas",
   radioGroups: "/components/application/forms/radio-groups",
   checkBoxes: "/components/application/forms/checkboxes",
   toggles: "/components/application/forms/toggles",
@@ -83,12 +84,12 @@ export const applicationRoutes = {
   containers: "/components/application/layout/containers",
   panels: "/components/application/layout/panels",
   listContainers: "/components/application/layout/listContainers",
-  mediaObjects: "/components/application/layout/mediaObjects",
+  mediaObjects: "/components/application/layout/media-objects",
   dividers: "/components/application/layout/dividers",
   // page examples section
-  homeScreens: "/components/application/page/home-screens",
-  detailScreens: "/components/application/page/detail-screens",
-  settingsScreens: "/components/application/page/settings-screens",
+  homeScreens: "/components/application/page-examples/home-screens",
+  detailScreens: "/components/application/page-examples/detail-screens",
+  settingsScreens: "/components/application/page-examples/settings-screens",
 };
 
 export const ecommerceRoutes = {
@@ -98,7 +99,7 @@ export const ecommerceRoutes = {
   categoryPreviews: "/components/ecommerce/components/category-previews",
   shoppingCarts: "/components/ecommerce/components/shopping-carts",
   categoryFilters: "/components/ecommerce/components/category-filters",
-  productsQuickviews: "/components/ecommerce/components/products-quickviews",
+  productsQuickviews: "/components/ecommerce/components/product-quickviews",
   productFeatures: "/components/ecommerce/components/product-features",
   storeNavigation: "/components/ecommerce/components/store-navigation",
   promoSections: "/components/ecommerce/components/promo-sections",
@@ -108,11 +109,11 @@ export const ecommerceRoutes = {
   orderHistory: "/components/ecommerce/components/order-history",
   incentives: "/components/ecommerce/components/incentives",
   // page examples
-  storefrontPage: "/components/ecommerce/page/storefront",
-  productPages: "/components/ecommerce/page/product",
-  categoryPages: "/components/ecommerce/page/category",
-  shoppingCartPages: "/components/ecommerce/page/shopping-cart",
-  checkoutPages: "/components/ecommerce/page/checkout",
-  orderDetailPages: "/components/ecommerce/page/order-detail",
-  orderHistoryPages: "/components/ecommerce/page/order-history",
+  storefrontPage: "/components/ecommerce/page-examples/storefront-pages",
+  productPages: "/components/ecommerce/page-examples/product-pages",
+  categoryPages: "/components/ecommerce/page-examples/category-pages",
+  shoppingCartPages: "/components/ecommerce/page-examples/shopping-cart-pages",
+  checkoutPages: "/components/ecommerce/page-examples/checkout-pages",
+  orderDetailPages: "/components/ecommerce/page-examples/order-detail-pages",
+  orderHistoryPages: "/components/ecommerce/page-examples/order-history-pages",
 };
