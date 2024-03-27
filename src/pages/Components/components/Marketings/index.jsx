@@ -24,6 +24,7 @@ const Marketings = () => {
           "Heroes, feature sections, newsletter sign up forms — everything you need to build beautiful marketing websites."
         }
       />
+
       <PageSections pageSectionData={marketing?.pageSection} />
       <Elements elementData={marketing?.elements} />
       <Feedbacks feedbackData={marketing?.feedback} />

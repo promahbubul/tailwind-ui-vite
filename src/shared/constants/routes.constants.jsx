@@ -65,7 +65,7 @@ export const applicationRoutes = {
   navbar: "/components/application/navigation/navbar",
   pagination: "/components/application/navigation/pagination",
   tabs: "/components/application/navigation/tabs",
-  verticalNavigation: "/components/application/navigation/vertical-avigation",
+  verticalNavigation: "/components/application/navigation/vertical-navigation",
   siebarNavigation: "/components/application/navigation/sidebar-navigation",
   breadcrumbs: "/components/application/navigation/breadcrumbs",
   steps: "/components/application/navigation/steps",

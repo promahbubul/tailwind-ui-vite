@@ -41,6 +41,7 @@ import Pagination from "../pages/applications/navigation/Pagination";
 import SidebarNavigation from "../pages/applications/navigation/SidebarNavigation";
 import Steps from "../pages/applications/navigation/Steps";
 import Tabs from "../pages/applications/navigation/Tabs";
+import VerticalNevigation from "../pages/applications/navigation/VerticalNavigation";
 import Dialogs from "../pages/applications/overlays/Dialogs";
 import Notifications from "../pages/applications/overlays/Notifications";
 import SideOvers from "../pages/applications/overlays/SideOvers";
@@ -338,6 +339,10 @@ export const RoutesConfig = [
       {
         path: applicationRoutes.commandPalettes,
         element: <CommadPalettes />,
+      },
+      {
+        path: applicationRoutes.verticalNavigation,
+        element: <VerticalNevigation />,
       },
       // overlays section
       {
