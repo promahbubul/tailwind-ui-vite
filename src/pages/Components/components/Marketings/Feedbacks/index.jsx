@@ -1,4 +1,3 @@
-import React from "react";
 import CatelogSection from "../../../../../shared/components/Catelog/CatelogSection";
 
 const Feedbacks = ({ feedbackData }) => {

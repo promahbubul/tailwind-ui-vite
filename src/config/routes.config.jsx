@@ -78,6 +78,7 @@ import Headers from "../pages/marketing/elements/Headers";
 import NotFound from "../pages/marketing/feedback/NotFound";
 import Blog from "../pages/marketing/pageSection/Blog";
 import Contact from "../pages/marketing/pageSection/Contact";
+import ContentSection from "../pages/marketing/pageSection/ContentSection";
 import Cta from "../pages/marketing/pageSection/Cta";
 import Faq from "../pages/marketing/pageSection/Faq";
 import Feature from "../pages/marketing/pageSection/Feature";
@@ -156,7 +157,7 @@ export const RoutesConfig = [
       },
       {
         path: marketingRoutes.content,
-        element: <Contact />,
+        element: <ContentSection />,
       },
       {
         path: marketingRoutes.logoCloude,

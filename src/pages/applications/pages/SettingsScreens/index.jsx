@@ -1,5 +1,3 @@
-import React from "react";
-
 const SettingsScreen = () => {
   return <div>SettingsScreen</div>;
 };
