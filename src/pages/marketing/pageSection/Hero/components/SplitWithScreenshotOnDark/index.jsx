@@ -1,8 +1,14 @@
 import { ChevronRightIcon } from "@heroicons/react/20/solid";
 import ComponentContainer from "../../../../../../shared/components/ComponentContainer";
+import { useState } from "react";
 const SplitWithScreenshotOnDark = () => {
+  const [showCode, setShowCode] = useState(true);
   return (
-    <ComponentContainer title={"Split with screenshot on dark"}>
+    <ComponentContainer
+      showCode={showCode}
+      handleShowCode={setShowCode}
+      title={"Split with screenshot on dark"}
+    >
       <div className="relative isolate  rounded-lg overflow-hidden bg-gray-900">
         <svg
           className="absolute inset-0 -z-10 h-full w-full stroke-white/10 [mask-image:radial-gradient(100%_100%_at_top_right,white,transparent)]"
