@@ -1,7 +1,5 @@
 import { RiEyeLine } from "react-icons/ri";
 import { MdCode } from "react-icons/md";
-import { useState } from "react";
-
 const ComponentContainer = ({ children, title, showCode, handleShowCode }) => {
   return (
     <div className="mt-10">
