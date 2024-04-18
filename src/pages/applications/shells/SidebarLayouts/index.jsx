@@ -1,6 +1,6 @@
 import ComponentPageContainer from "../../../../shared/components/ComponentPageContainer";
 import BrandSidebar from "./BrandSidebar";
-import BrandSidebarWithHeader from "./BrandSidebarWithHeader";
+// import BrandSidebarWithHeader from "./BrandSidebarWithHeader";
 import DarkSidebar from "./DarkSidebar";
 import DarkSidebarWithHeader from "./DarkSidebarWithHeader";
 import LightSidebar from "./LightSidebar";
@@ -14,7 +14,7 @@ const SidebarLayouts = () => {
       pageTitle={"Sidebar Layouts"}
       breadcrumb={"Application UI / Application Shells"}
     >
-      <BrandSidebarWithHeader />
+      {/* <BrandSidebarWithHeader /> */}
       <DarkSidebarWithHeader />
       <LightSidebarWithHeader />
       <BrandSidebar />
