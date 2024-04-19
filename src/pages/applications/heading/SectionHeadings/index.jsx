@@ -26,8 +26,6 @@ const ApplicationSectionHeading = () => {
       <WithInlineTabs />
       <WithLabel />
       <WithBadgeAndDropdown />
-      <Simple />
-      <Simple />
     </ComponentPageContainer>
   );
 };
