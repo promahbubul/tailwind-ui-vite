@@ -1,5 +1,12 @@
+import ComponentPageContainer from "../../../../shared/components/ComponentPageContainer";
+
 const Feeds = () => {
-  return <div>Feeds</div>;
+  return (
+    <ComponentPageContainer
+      pageTitle={"Feeds"}
+      breadcrumb={"Application UI / Lists"}
+    ></ComponentPageContainer>
+  );
 };
 
 export default Feeds;
