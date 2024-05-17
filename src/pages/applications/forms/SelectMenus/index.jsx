@@ -1,5 +1,12 @@
+import ComponentPageContainer from "../../../../shared/components/ComponentPageContainer";
+
 const SelectMenus = () => {
-  return <div>SelectMenus</div>;
+  return (
+    <ComponentPageContainer
+      pageTitle={"Select Menus"}
+      breadcrumb={"Application UI / Forms"}
+    ></ComponentPageContainer>
+  );
 };
 
 export default SelectMenus;
