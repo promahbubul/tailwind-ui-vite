@@ -1,5 +1,12 @@
+import ComponentPageContainer from "../../../../shared/components/ComponentPageContainer";
+
 const Tabs = () => {
-  return <div>Tabs</div>;
+  return (
+    <ComponentPageContainer
+      pageTitle={"Tabs"}
+      breadcrumb={"Application UI / Navigation"}
+    ></ComponentPageContainer>
+  );
 };
 
 export default Tabs;
