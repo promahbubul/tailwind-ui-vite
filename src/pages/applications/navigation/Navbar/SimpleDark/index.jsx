@@ -1,5 +1,7 @@
+import ComponentContainer from "../../../../../shared/components/ComponentContainer";
+
 const SimpleDark = () => {
-  return <div>SimpleDark</div>;
+  return <ComponentContainer title={"Simple Dark"}></ComponentContainer>
 };
 
 export default SimpleDark;
