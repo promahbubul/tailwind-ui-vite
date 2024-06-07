@@ -10,7 +10,7 @@ import WithImagesAndDescriptions from "./WithImagesAndDescriptions";
 import WithPreview from "./WithPreview";
 
 const CommadPalettes = () => {
-  return <ComponentPageContainer pageTitle={"Command Palettes"}>
+  return <ComponentPageContainer breadcrumb={"Application UI / Navigation"} pageTitle={"Command Palettes"}>
     <Simple />
     <SimpleWithPadding />
     <WithPreview />

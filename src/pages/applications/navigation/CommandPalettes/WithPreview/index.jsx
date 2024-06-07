@@ -1,9 +1,10 @@
 
-import ComponentPageContainer from '../../../../../shared/components/ComponentPageContainer'
+import ComponentContainer from '../../../../../shared/components/ComponentContainer'
+
 
 const WithPreview = () => {
   return (
-    <ComponentPageContainer pageTitle={"With preview"}></ComponentPageContainer>
+    <ComponentContainer title={"With preview"}></ComponentContainer>
   )
 }
 
