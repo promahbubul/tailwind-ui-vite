@@ -1,11 +1,7 @@
-import ComponentPageContainer from "../../../../../shared/components/ComponentPageContainer";
+import ComponentContainer from "../../../../../shared/components/ComponentContainer";
 
 const WithBorderOnDark = () => {
-  return (
-    <ComponentPageContainer
-      pageTitle={"WithBorderOnDark"}
-    ></ComponentPageContainer>
-  );
+  return <ComponentContainer title={"WithBorderOnDark"}></ComponentContainer>;
 };
 
 export default WithBorderOnDark;
