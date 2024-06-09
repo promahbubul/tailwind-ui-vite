@@ -1,4 +1,3 @@
-
 import ComponentContainer from "../../../../../shared/components/ComponentContainer";
 
 const WithIcons = () => {
