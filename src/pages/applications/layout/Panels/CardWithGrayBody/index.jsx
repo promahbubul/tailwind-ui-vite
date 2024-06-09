@@ -1,10 +1,9 @@
-import React from 'react'
-import ComponentContainer from '../../../../../shared/components/ComponentContainer'
+import ComponentContainer from "../../../../../shared/components/ComponentContainer";
 
 const CardWithGrayBody = () => {
   return (
     <ComponentContainer title={"Card with gray body"}></ComponentContainer>
   );
-}
+};
 
-export default CardWithGrayBody
+export default CardWithGrayBody;

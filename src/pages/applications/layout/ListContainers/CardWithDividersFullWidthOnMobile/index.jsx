@@ -1,11 +1,11 @@
 import ComponentContainer from "../../../../../shared/components/ComponentContainer";
 
-const CardEdgeToEdgeOnMobile = () => {
+const CardWithDividersFullWidthOnMobile = () => {
   return (
     <ComponentContainer
-      title={"Card, edge-to-edge on mobile"}
+      title={"Card with dividers, full-width on mobile"}
     ></ComponentContainer>
   );
 };
 
-export default CardEdgeToEdgeOnMobile;
+export default CardWithDividersFullWidthOnMobile;

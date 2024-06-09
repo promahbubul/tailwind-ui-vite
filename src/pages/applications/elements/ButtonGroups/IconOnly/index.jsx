@@ -1,8 +1,7 @@
-import React from 'react'
-import ComponentContainer from '../../../../../shared/components/ComponentContainer'
+import ComponentContainer from "../../../../../shared/components/ComponentContainer";
 
 const IconOnly = () => {
   return <ComponentContainer title={"Icon only"}></ComponentContainer>;
-}
+};
 
-export default IconOnly
+export default IconOnly;

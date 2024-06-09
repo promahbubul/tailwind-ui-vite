@@ -1,5 +1,4 @@
-import React from 'react'
-import ComponentContainer from '../../../../../shared/components/ComponentContainer'
+import ComponentContainer from "../../../../../shared/components/ComponentContainer";
 
 const ConstrainedWithPaddedContent = () => {
   return (
@@ -7,6 +6,6 @@ const ConstrainedWithPaddedContent = () => {
       title={"Constrained with padded content"}
     ></ComponentContainer>
   );
-}
+};
 
-export default ConstrainedWithPaddedContent
+export default ConstrainedWithPaddedContent;

@@ -1,11 +1,7 @@
-import React from 'react'
-import ComponentContainer from '../../../../../shared/components/ComponentContainer'
+import ComponentContainer from "../../../../../shared/components/ComponentContainer";
 
-const 
-WithDropdown
- = () => {
+const WithDropdown = () => {
   return <ComponentContainer title={"With dropdown"}></ComponentContainer>;
-}
+};
 
-export default 
-WithDropdown
+export default WithDropdown;

@@ -1,5 +1,4 @@
-import React from 'react'
-import ComponentContainer from '../../../../../shared/components/ComponentContainer'
+import ComponentContainer from "../../../../../shared/components/ComponentContainer";
 
 const WithCheckboxAndDropdown = () => {
   return (
@@ -7,6 +6,6 @@ const WithCheckboxAndDropdown = () => {
       title={"With checkbox and dropdown"}
     ></ComponentContainer>
   );
-}
+};
 
-export default WithCheckboxAndDropdown
+export default WithCheckboxAndDropdown;

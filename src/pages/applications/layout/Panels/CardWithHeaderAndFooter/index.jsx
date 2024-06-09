@@ -1,5 +1,4 @@
-import React from 'react'
-import ComponentContainer from '../../../../../shared/components/ComponentContainer'
+import ComponentContainer from "../../../../../shared/components/ComponentContainer";
 
 const CardWithHeaderAndFooter = () => {
   return (
@@ -7,6 +6,6 @@ const CardWithHeaderAndFooter = () => {
       title={"Card with header and footer"}
     ></ComponentContainer>
   );
-}
+};
 
-export default CardWithHeaderAndFooter
+export default CardWithHeaderAndFooter;
