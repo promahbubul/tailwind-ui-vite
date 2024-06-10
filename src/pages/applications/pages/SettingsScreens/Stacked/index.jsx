@@ -4,7 +4,7 @@ import ComponentContainer from '../../../../../shared/components/ComponentContai
 const Stacked
  = () => {
   return (
-   <ComponentContainer title={"Stacked"}></ComponentContainer>
+  <ComponentContainer title={"Stacked"}></ComponentContainer>
   )
 }
 
