@@ -1,4 +1,4 @@
-import React from 'react'
+
 import ComponentContainer from '../../../../../shared/components/ComponentContainer'
 
 function MultiStep() {

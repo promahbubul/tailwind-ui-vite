@@ -1,4 +1,4 @@
-import React from 'react'
+
 import ComponentPageContainer from '../../../../../shared/components/ComponentPageContainer'
 import ComponentContainer from '../../../../../shared/components/ComponentContainer'
 
