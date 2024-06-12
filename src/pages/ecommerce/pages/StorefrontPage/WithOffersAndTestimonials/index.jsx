@@ -1,5 +1,4 @@
-import React from 'react'
-import ComponentContainer from '../../../../../shared/components/ComponentContainer'
+import ComponentContainer from "../../../../../shared/components/ComponentContainer";
 
 const WithOffersAndTestimonials = () => {
   return (
@@ -7,6 +6,6 @@ const WithOffersAndTestimonials = () => {
       title={"With offers and testimonials"}
     ></ComponentContainer>
   );
-}
+};
 
-export default WithOffersAndTestimonials
+export default WithOffersAndTestimonials;
